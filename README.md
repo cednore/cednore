@@ -6,7 +6,7 @@ Fullstack Engineer
 
 - 🌱 I’m currently learning **Rust, Deno, Svelte**
 
-- 👯 I’m looking to collaborate on **any open-source project involving** **\_JavaScript, Rust, PHP**
+- 👯 I’m looking to collaborate on **any open-source project involving** **_JavaScript, Rust, PHP_**
 
 - 🤝 I’m looking for help with [Learning Rust](https://www.rust-lang.org/)
 
