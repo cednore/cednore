@@ -14,6 +14,6 @@ Fullstack Engineer
 
 - 📫 How to reach me; **cednore@gmail.com**
 
-- 🧰 I actively use; 😃 [Gitmoji](https://gitmoji.dev/)
+- 🧰 I actively use; [Ubuntu](https://ubuntu.com/), [Gitmoji](https://gitmoji.dev/), [VSCode](https://code.visualstudio.com/)
 
 - ⚡ Fun fact; **Domain name registrations were free till 1995.**
