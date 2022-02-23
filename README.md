@@ -8,12 +8,12 @@ Fullstack Engineer
 
 - 👯 I’m looking to collaborate on **any open-source project involving** **_JavaScript, Rust, PHP_**
 
-- 🤝 I’m looking for help with [Learning Rust](https://www.rust-lang.org/)
+- 🤝 I’m looking for help with **Learning Rust**
 
 - 💬 Ask me about **AWS, Terraform, Docker, JavaScript/TypeScript, Node.js, PHP, Laravel, React.js**
 
 - 📫 How to reach me; **cednore@gmail.com**
 
-- 🧰 I actively use; [Ubuntu](https://ubuntu.com/), [Gitmoji](https://gitmoji.dev/), [VSCode](https://code.visualstudio.com/)
+- 🧰 My favorite tools; Ubuntu, Tilix, zsh, Gitmoji, VSCode, DBeaver
 
 - ⚡ Fun fact; **Domain name registrations were free till 1995.**
