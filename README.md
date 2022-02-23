@@ -14,6 +14,6 @@ Fullstack Engineer
 
 - 📫 How to reach me; **cednore@gmail.com**
 
-- 🧰 My favorite tools; Ubuntu, Tilix, zsh, Gitmoji, VSCode, DBeaver
+- 🧰 My favorite tools; **Ubuntu, Tilix, zsh, Gitmoji, VSCode, DBeaver**
 
 - ⚡ Fun fact; **Domain name registrations were free till 1995.**
