@@ -1,8 +1,11 @@
 # Hi 👋, I'm @cednore
 
-Fullstack Engineer
+☢️ DevOps Engineer | ☁️ Cloud Architect | 🧑‍🏭 Fullstack Developer
 
-- 🔭 I’m currently working on [nodejs-starter](https://github.com/cednore/nodejs-starter)
+- 🔭 I’m currently working on **[`nodejs-starter`](https://github.com/cednore/nodejs-starter)**
+
+- 🚂 I maintain **[`boom-server`](https://github.com/cednore/boom-server)**,
+  **[`boom-controller`](https://github.com/cednore/boom-controller)**
 
 - 🌱 I’m currently learning **Rust, Deno, Svelte**
 
