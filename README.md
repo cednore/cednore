@@ -2,7 +2,7 @@
 
 ☢️ DevOps Engineer | ☁️ Cloud Architect | 🧑‍🏭 Fullstack Developer
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/master/assets/developer.gif" alt="Programmer" width="500" height="350"/>
+<img align="right" src="https://github.com/cednore/cednore/blob/master/assets/developer.gif" alt="Programmer" width="500" height="350"/>
 
 - 🔭 I’m currently working on **[`nodejs-starter`](https://github.com/cednore/nodejs-starter)**
 - 🚂 I maintain **[`boom-server`](https://github.com/cednore/boom-server)**,
