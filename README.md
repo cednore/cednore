@@ -2,7 +2,13 @@
 
 ☢️ DevOps Engineer | ☁️ Cloud Architect | 🧑‍🏭 Fullstack Developer
 
-<img align="right" src="https://github.com/cednore/cednore/blob/master/assets/developer.gif" alt="Programmer" width="500" height="350"/>
+<img
+  align="right"
+  src="https://github.com/cednore/cednore/blob/master/assets/developer.gif"
+  alt="Programmer"
+  width="500"
+  height="350"
+/>
 
 - 🔭 I’m currently working on **[`cednore/trilium`](https://github.com/cednore/trilium)**
 - 🚂 I maintain **[`boom-server`](https://github.com/cednore/boom-server)**,
@@ -12,7 +18,7 @@
 - 🤝 I’m looking for help with **Learning Rust**
 - 💬 Ask me about **AWS, Terraform, Docker, JavaScript/TypeScript, Node.js, PHP, Laravel, React.js**
 - 📫 How to reach me; **cednore@gmail.com**
-- 🧰 My favorite tools; **Ubuntu, Tilix, zsh, Gitmoji, VSCode, DBeaver**
+- 🧰 My favorite tools; **Ubuntu, Tilix, bash/zsh, Gitmoji, VSCode, DBeaver**
 - ⚡ Fun fact; **Domain name registrations were free till 1995.**
 
 ---
