@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/cednore/cednore/blob/master/assets/developer.gif" alt="Programmer" width="500" height="350"/>
 
-- 🔭 I’m currently working on **[`nodejs-starter`](https://github.com/cednore/nodejs-starter)**
+- 🔭 I’m currently working on **[`cednore/trilium`](https://github.com/cednore/trilium)**
 - 🚂 I maintain **[`boom-server`](https://github.com/cednore/boom-server)**,
   **[`boom-controller`](https://github.com/cednore/boom-controller)**
 - 🌱 I’m currently learning **Rust, Deno, Svelte**
