@@ -29,7 +29,7 @@
 
   [![aws](https://img.shields.io/badge/-AWS-orange?logo=amazonaws)](https://aws.amazon.com/)
   [![docker](https://img.shields.io/badge/-Docker-blue?logo=docker)](https://docker.com/)
-  [![terraform](https://img.shields.io/badge/-Terraform-blueviolet?logo=terraform)](https://terraform.com/)
+  [![terraform](https://img.shields.io/badge/-Terraform-blueviolet?logo=terraform)](https://terraform.io/)
   [![laravel](https://img.shields.io/badge/-laravel-orange?logo=laravel)](https://laravel.com/)
 
 - 🧰 My toolbelt;
