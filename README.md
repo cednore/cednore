@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on **[`cednore/cedi`](https://github.com/cednore/cedi)**
 - 🚂 I maintain;
+  - **[`norumin/calendso`](https://github.com/norumin/calendso)**
   - **[`cednore/trilium`](https://github.com/cednore/trilium)**
   - **[`cednore/boom-server`](https://github.com/cednore/boom-server)**
   - **[`cednore/boom-controller`](https://github.com/cednore/boom-controller)**
