@@ -1,6 +1,6 @@
 [![cednore.me](https://img.shields.io/badge/-cednore.me-yellow)](https://cednore.me)
 ![Profile views](https://gpvc.arturio.dev/cednore)
-![GitHub followers](https://img.shields.io/github/followers/cednore?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/cednore?style=social)](https://github.com/cednore?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/cednore?affiliations=OWNER&style=social)
 
 # Hi 👋, I'm @cednore
@@ -19,9 +19,10 @@
   - **[`cednore/pendulum`](https://github.com/cednore/pendulum)**
   - **[`cednore/awesome-toolbelt`](https://github.com/cednore/awesome-toolbelt)**
   - **[`cednore/awesome-missing-markdown-badges`](https://github.com/cednore/awesome-missing-markdown-badges)**
-- 🌱 I’m currently learning **Rust, Deno, Svelte**
-- 👯 I’m looking to collaborate on **any open-source project involving** **_JavaScript, Rust, PHP_**
+- 🌱 I’m currently learning **Rust**, **Deno**, **Svelte**
+- 👯 I’m looking to collaborate on **any open-source project involving** **_JavaScript_**, **_Rust_**, **_PHP_**
 - 🤝 I’m looking for help with **Learning Rust**
+- 📺 I sometimes write blog posts on [**dev.to**](https://dev.to/cednore)
 - 📫 How to reach me; **cednore@gmail.com**
 - 💬 Ask me about;
 
