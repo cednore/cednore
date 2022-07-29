@@ -9,16 +9,16 @@
 
 - 🔭 I’m currently working on **[`cednore/cedi`](https://github.com/cednore/cedi)**
 - 🚂 I maintain;
-  - **[`norumin/calendso`](https://github.com/norumin/calendso)**
   - **[`cednore/trilium`](https://github.com/cednore/trilium)**
   - **[`cednore/boom-server`](https://github.com/cednore/boom-server)**
   - **[`cednore/boom-controller`](https://github.com/cednore/boom-controller)**
+  - **[`norumin/calendso`](https://github.com/norumin/calendso)**
 - 📋 Some of my hobby projects;
-  - **[`cednore/dotfiles`](https://github.com/cednore/dotfiles)**
-  - **[`cednore/ubuntu`](https://github.com/cednore/ubuntu)**
   - **[`cednore/pendulum`](https://github.com/cednore/pendulum)**
-  - **[`cednore/awesome-toolbelt`](https://github.com/cednore/awesome-toolbelt)**
+  - **[`cednore/dotfiles`](https://github.com/cednore/dotfiles)**
   - **[`cednore/awesome-missing-markdown-badges`](https://github.com/cednore/awesome-missing-markdown-badges)**
+  - **[`cednore/ubuntu`](https://github.com/cednore/ubuntu)**
+  - **[`cednore/awesome-toolbelt`](https://github.com/cednore/awesome-toolbelt)**
 - 🌱 I’m currently learning **Rust**, **Deno**, **Svelte**
 - 👯 I’m looking to collaborate on **any open-source project involving** **_JavaScript_**, **_Rust_**, **_PHP_**
 - 🤝 I’m looking for help with **Learning Rust**
