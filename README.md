@@ -7,29 +7,26 @@
 
 ☢️ DevOps Engineer | ☁️ Cloud Architect | 🧑‍🏭 Fullstack Developer
 
-<img
-  align="right"
-  src="https://raw.githubusercontent.com/cednore/cednore/master/assets/developer.gif"
-  alt="Programmer"
-  width="360"
-  height="270"
-/>
-
 - 🔭 I’m currently working on **[`cednore/cedi`](https://github.com/cednore/cedi)**
 - 🚂 I maintain;
   - **[`cednore/trilium`](https://github.com/cednore/trilium)**
   - **[`cednore/boom-server`](https://github.com/cednore/boom-server)**
   - **[`cednore/boom-controller`](https://github.com/cednore/boom-controller)**
+- 📋 Some of my hobby projects;
+  - **[`cednore/dotfiles`](https://github.com/cednore/dotfiles)**
   - **[`cednore/ubuntu`](https://github.com/cednore/ubuntu)**
+  - **[`cednore/pendulum`](https://github.com/cednore/pendulum)**
+  - **[`cednore/awesome-toolbelt`](https://github.com/cednore/awesome-toolbelt)**
+  - **[`cednore/awesome-missing-markdown-badges`](https://github.com/cednore/awesome-missing-markdown-badges)**
 - 🌱 I’m currently learning **Rust, Deno, Svelte**
 - 👯 I’m looking to collaborate on **any open-source project involving** **_JavaScript, Rust, PHP_**
 - 🤝 I’m looking for help with **Learning Rust**
 - 📫 How to reach me; **cednore@gmail.com**
 - 💬 Ask me about;
 
-  [![aws](https://img.shields.io/badge/-AWS-orange?logo=amazonaws)](https://aws.amazon.com/)
-  [![docker](https://img.shields.io/badge/-Docker-blue?logo=docker)](https://docker.com/)
-  [![terraform](https://img.shields.io/badge/-Terraform-blueviolet?logo=terraform)](https://terraform.io/)
+  [![aws](https://img.shields.io/badge/-aws-orange?logo=amazonaws)](https://aws.amazon.com/)
+  [![docker](https://img.shields.io/badge/-docker-blue?logo=docker)](https://docker.com/)
+  [![terraform](https://img.shields.io/badge/-terraform-blueviolet?logo=terraform)](https://terraform.io/)
   [![laravel](https://img.shields.io/badge/-laravel-orange?logo=laravel)](https://laravel.com/)
 
 - 🧰 My toolbelt;
